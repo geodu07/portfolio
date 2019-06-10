@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
-import HomeLayout from '../components/home-layout'
-import Header from '../components/header'
-import Landing from './landing';
+import HomeLayout from '../components/layout'
+import Landing from '../components/landing';
 
 
 
@@ -9,7 +8,6 @@ class Home extends Component{
   render(){
     return(
       <HomeLayout>
-        <Header/>
         <Landing/>
       </HomeLayout>
     )

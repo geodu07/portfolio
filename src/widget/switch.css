@@ -1,0 +1,17 @@
+.DEV::after{
+  content: "Programmer";
+}
+
+.ING::after{
+  content: "Engineer";
+}
+
+@media screen and (max-width:430px){
+  .DEV::after{
+    content: "DEV";
+  }
+  
+  .ING::after{
+    content: "ENG";
+  }
+}

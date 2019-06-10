@@ -1,7 +1,7 @@
 import React from 'react'
-import './home-layout.css'
+import './layout.css'
 
-function HomeLayout (props){
+function Layout (props){
   return(
     <section>
       {props.children}
@@ -9,4 +9,4 @@ function HomeLayout (props){
   )
 }
 
-export default HomeLayout
+export default Layout
