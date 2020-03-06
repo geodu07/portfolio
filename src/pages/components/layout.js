@@ -3,9 +3,14 @@ import './layout.css'
 
 function Layout (props){
   return(
-    <section>
+    <div className='Layout m-0 p-0'>
+      
+        
       {props.children}
-    </section>
+        
+     
+
+    </div>
   )
 }
 

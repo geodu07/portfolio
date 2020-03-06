@@ -1,14 +1,14 @@
-div .img-container{
+/* div .img-container{
   border-left: solid 2px black;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
   
-}
-/* 
-.img-container img{
-  max-width: 300px;
-  max-height: 200px;
+  
 } */
+
+.img-container img{
+  border-radius: 50%;
+}
 div .skill{
   border-left: solid 2px black;
   border-top-left-radius: 5px;

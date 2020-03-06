@@ -4,6 +4,7 @@ import github from '../../icons/github.svg'
 import linkedin from '../../icons/linkedin.svg'
 import email from '../../icons/email.svg'
 
+
 const Icons = (props)=>(
   <div className='Icon align-items-end'>
     <a className='mr-4' href='https://twitter.com/geowdu' target='_blank'><img src={twitter} alt='twitter' width={props.size} height={props.size}/></a>

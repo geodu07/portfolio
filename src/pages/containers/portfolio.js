@@ -1,23 +1,15 @@
 import React, { Component, Fragment } from 'react'
-import './me.css'
-import Container from '../components/container';
-import ButtonGroup from '../buttonGroup';
-import Profession from '../components/profession';
-import Headers from '../components/header'
 import { connect } from 'react-redux'
 
-import Footer from './footer';
+import Container from '../components/container';
+import ButtonGroup from '../buttonGroup';
+import Title from '../components/titleportfolio';
+import Job from '../components/projects'
+import Headers from '../components/header'
+import Footer from './footer'
 
-class Me extends Component{
-  // state={
-  //   profession: this.props.data.EN[0],
-  //   theme: "navbar-light bg-white"
-  // }
-
+class Portfolio extends Component{
   
-
-  
-
   handleProfession = (idProfession) =>{
     switch (idProfession){
       case 0:
@@ -59,32 +51,30 @@ class Me extends Component{
         
       break   }
   }
-  
   render(){
-    console.log("imprimiendo props");
-    console.log(this.props)
     return(
-      
       <Fragment>
-      <Headers/>
-      <Container>
+        <Headers/>
+        <Container>
         <ButtonGroup handleProfession={this.handleProfession}/>
-        <Profession profession={this.props.profession}/>
-      </Container>
+        <Title job={this.props.profession.title}/>
+        {
+          this.props.profession.portfolio.map((item)=>(
+            <Job key={item.id} data={item} />
+          ))
+        }
+        </Container>
         <Footer handleLenguague={this.handleLenguague}/>
       </Fragment>
+
     )
   }
 }
 
-function mapStateToProps(state,props) {
-  
- 
-  
+function mapStateToProps (state,props){
   return {
-    profession: state.load.profession[state.career.role]
-    
+    profession: state.load.profession[state.career.role],
     
   }
 }
-export default connect(mapStateToProps)(Me)
+export default connect(mapStateToProps)(Portfolio)
