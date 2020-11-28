@@ -1,3 +1,3 @@
-# Portafolio Ing. Georgie Duarte
+## Old Portafolio Ing. Georgie Duarte
 
-### Echa un vistazo al portafolio de Georgie Duarte si estas interesado en trabajar con el
+### Esta version del portafolio no es la version actual
