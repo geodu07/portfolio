@@ -1,0 +1,200 @@
+{
+  "EN":[
+    {
+      "id": 1,
+      "title": "Electrical Engineer",
+      "photo": "./assets/avatar.jpg",
+      "skill": [
+          "Design Electronic Circuit",
+          "Automation projects",
+          "PCB Design Prototype",
+          "3D Modeling",
+          "Microcontroller Programmer",
+          "Electrical projects"
+      ],
+      "portfolio":[
+          {
+            "id":1,
+            "title": "Project 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
+            "covers": [
+              "./assets/pcb1.png",
+              "./assets/fq3.png",
+              "./assets/fq4.png"
+            ],
+            "src": "https://github.com/geowdu"
+          },
+          {
+            "id":2,
+            "title": "Project 2",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
+            "covers": ["./assets/pcb1.png",
+              "./assets/fq3.png",
+              "./assets/fq4.png"
+            ],
+            "src": "https://github.com/geowdu"
+          },
+          {
+            "id":3,
+            "title": "Project 3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
+            "covers": ["./assets/pcb1.png",
+              "./assets/fq3.png",
+              "./assets/fq4.png"
+            ],
+            "src": "https://github.com/geowdu"
+          }
+
+      ]
+
+      
+    },
+
+    {
+      
+      "id": 2,
+      "title": "Developer Frontend",
+      "photo": "./assets/avatar.jpg",
+      "skill": [
+        "Web Design",
+        "Resposive Design",
+        "Web Animations",
+        "React.js",
+        "Redux",
+        "Git & GitHub",
+        "Webpack"
+      ],
+      "portfolio":[
+        {
+          "id":1,
+          "title": "Project 1",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
+          "covers": ["./assets/pcb1.png",
+            "./assets/fq3.png",
+            "./assets/fq4.png"
+          ],
+          "src": "https://github.com/geowdu"
+        },
+        {
+          "id":2,
+          "title": "Project 2",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
+          "covers": ["./assets/pcb1.png",
+            "./assets/fq3.png",
+            "./assets/fq4.png"
+          ],
+          "src": "https://github.com/geowdu"
+        },
+        {
+          "id":3,
+          "title": "Project 3",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
+          "covers": ["./assets/pcb1.png",
+            "./assets/fq3.png",
+            "./assets/fq4.png"
+          ],
+          "src": "https://github.com/geowdu"
+        }
+
+      ]
+
+    }      
+  ],
+  "ES":[
+    {
+      "id": 1,
+      "title": "Ingeniero Electricista",
+      "photo": "./assets/avatar.jpg",
+      "skill": [
+          "Diseño de Circuitos Electrónicos",
+          "Automatización de Proyectos",
+          "Diseño de prototipos PCB",
+          "Modelado 3D",
+          "Programador de Microcontroladores",
+          "Proyectos Eléctricos "
+      ],
+      "portfolio":[
+        {
+          "id":1,
+          "title": "Project 1",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
+          "covers": ["./assets/pcb1.png",
+            "./assets/fq3.png",
+            "./assets/fq4.png"
+          ],
+          "src": "https://github.com/geowdu"
+          },
+          {
+            "id":2,
+            "title": "Project 2",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
+            "covers": ["./assets/pcb1.png",
+              "./assets/fq3.png",
+              "./assets/fq4.png"
+            ],
+            "src": "https://github.com/geowdu"
+          },
+          {
+            "id":3,
+            "title": "Project 3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
+            "covers": ["./assets/pcb1.png",
+              "./assets/fq3.png",
+              "./assets/fq4.png"
+            ],
+            "src": "https://github.com/geowdu"
+          }
+
+        ]
+
+    },
+    {
+      "id": 2,
+      "title": "Programador Frontend",
+      "photo": "./assets/avatar.jpg",
+      "skill": [
+          "Diseño Web",
+          "Resposive Design",
+          "Animaciones Web",
+          "React.js",
+          "Redux",
+          "Git & GitHub",
+          "Webpack"
+      ],
+      "portfolio":[
+        {
+          "id":1,
+          "title": "Project 1",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
+          "covers": ["./assets/pcb1.png",
+            "./assets/fq3.png",
+            "./assets/fq4.png"
+          ],
+          "src": "https://github.com/geowdu"
+          },
+          {
+          "id":2,
+          "title": "Project 2",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
+          "covers": ["./assets/pcb1.png",
+            "./assets/fq3.png",
+            "./assets/fq4.png"
+          ],
+          "src": "https://github.com/geowdu"
+          },
+          {
+          "id":3,
+          "title": "Project 3",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
+          "covers": ["./assets/pcb1.png",
+            "./assets/fq3.png",
+            "./assets/fq4.png"
+          ],
+          "src": "https://github.com/geowdu"
+          }
+
+        ]
+
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.Layout {
+  min-height: calc(100vh - 100px);
+
+  
+}
+
+@media screen and (max-width: 576px){
+  html{
+    font-size: 12px;
+  }
+}

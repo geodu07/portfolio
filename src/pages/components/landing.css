@@ -1,0 +1,32 @@
+.Landing{
+
+min-height: calc(100vh - 56px - 100px);
+overflow: hidden;
+}
+
+
+
+.Typist .Cursor {
+  display: inline-block; }
+
+.Typist .Cursor--blinking {
+  opacity: 1;
+  animation: blink 1s linear infinite; 
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1; }
+  50% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+@media screen and (max-width: 480px){
+  .Landing{
+
+    min-height: calc(100vh - 42.5px - 100px);
+    overflow: hidden;
+    }
+    
+}

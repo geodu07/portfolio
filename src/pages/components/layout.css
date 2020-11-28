@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+html{
+  margin: 0;
+  padding: 0;
+}
+.Layout{
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 576px){
+  html{
+    font-size: 12px;
+  }
+}
