@@ -14,35 +14,57 @@
       ],
       "portfolio":[
           {
-            "id":1,
-            "title": "Project 1",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
+            "id":"en1",
+            "title": "PCB design",
+            "description": "Develop system sensor for car",
             "covers": [
-              "./assets/pcb1.png",
-              "./assets/fq3.png",
-              "./assets/fq4.png"
+              "./assets/pcb2.png",
+              "./assets/pcb4.png"
             ],
-            "src": "https://github.com/geowdu"
+            "src": "https://www.workana.com/freelancer/bceab8d6b0664ccdbb6c9f1be5cd8b64?ref=user_dropdown"
           },
           {
-            "id":2,
-            "title": "Project 2",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
-            "covers": ["./assets/pcb1.png",
-              "./assets/fq3.png",
-              "./assets/fq4.png"
+            "id":"en2",
+            "title": "PCB Arduino Domotic",
+            "description": "Custom pcb arduino base for domotic project",
+            "covers": ["./assets/pcbdomotica.jpg"
+              
             ],
-            "src": "https://github.com/geowdu"
+            "src": "https://www.workana.com/freelancer/bceab8d6b0664ccdbb6c9f1be5cd8b64?ref=user_dropdown"
           },
           {
-            "id":3,
-            "title": "Project 3",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
-            "covers": ["./assets/pcb1.png",
+            "id":"en3",
+            "title": "Reverse engineering",
+            "description": "Build pcb for system of control to dispenser automatic machine",
+            "covers": ["./assets/fq2.png",
               "./assets/fq3.png",
               "./assets/fq4.png"
             ],
-            "src": "https://github.com/geowdu"
+            "src": ""
+          },
+          {
+            "id":"en4",
+            "title": "PCb agricultural system",
+            "description": "Build pcb based on arduino for control fo agricultural system",
+            "covers": ["./assets/agricola.png"
+            ],
+            "src": ""
+          },
+          {
+            "id":"en5",
+            "title": "Electronic simulations",
+            "description": "Simulations of microcontrollers systems ",
+            "covers": ["./assets/simulation.png","./assets/oscilloscope.png","./assets/graph.png"
+            ],
+            "src": ""
+          },
+          {
+            "id":"en6",
+            "title": "Plans and Renders",
+            "description": "Plans and renders of any thing",
+            "covers": ["./assets/planos.png","./assets/Bodega.png","./assets/puente.png","./assets/planoBodega.png"
+            ],
+            "src": ""
           }
 
       ]
@@ -66,34 +88,29 @@
       ],
       "portfolio":[
         {
-          "id":1,
-          "title": "Project 1",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
-          "covers": ["./assets/pcb1.png",
-            "./assets/fq3.png",
-            "./assets/fq4.png"
+          "id":"de1",
+          "title": "Alphadog",
+          "description": "Vanilla js Web",
+          "covers": ["./assets/alpha.png"
+            
           ],
-          "src": "https://github.com/geowdu"
+          "src": "https://github.com/dongeodev"
         },
         {
-          "id":2,
-          "title": "Project 2",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
-          "covers": ["./assets/pcb1.png",
-            "./assets/fq3.png",
-            "./assets/fq4.png"
+          "id":"dev2",
+          "title": "Podcats App",
+          "description": "App develop on Next js",
+          "covers": ["./assets/pod.png"
           ],
-          "src": "https://github.com/geowdu"
+          "src": "https://github.com/dongeodev"
         },
         {
-          "id":3,
-          "title": "Project 3",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
-          "covers": ["./assets/pcb1.png",
-            "./assets/fq3.png",
-            "./assets/fq4.png"
+          "id":"dev3",
+          "title": "Landing Page",
+          "description": "Landing Page aboute repair services of smart phones on Gatsby js",
+          "covers": ["./assets/cell.png"
           ],
-          "src": "https://github.com/geowdu"
+          "src": "https://github.com/dongeodev"
         }
 
       ]
@@ -115,37 +132,60 @@
       ],
       "portfolio":[
         {
-          "id":1,
-          "title": "Project 1",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
-          "covers": ["./assets/pcb1.png",
+          "id":"en1",
+          "title": "Diseño PCB",
+          "description": "Desarrollo de tarjeta pcb para sensor en un carro",
+          "covers": [
+            "./assets/pcb2.png",
+            "./assets/pcb4.png"
+          ],
+          "src": "https://www.workana.com/freelancer/bceab8d6b0664ccdbb6c9f1be5cd8b64?ref=user_dropdown"
+        },
+        {
+          "id":"en2",
+          "title": "PCB Domotica con Arduino",
+          "description": "Desarrollo de tarjeta pcb para domotica basada en arduino mega, bluetooh y radio frecuencia",
+          "covers": ["./assets/pcbdomotica.png"
+            
+          ],
+          "src": "https://www.workana.com/freelancer/bceab8d6b0664ccdbb6c9f1be5cd8b64?ref=user_dropdown"
+        },
+        {
+          "id":"en3",
+          "title": "Ingeniería inversa",
+          "description": "Contruccion y modificacion de tarjeta a traves de ingenieria inversa para maquina automatica dispensadora de detergente",
+          "covers": ["./assets/fq2.png",
             "./assets/fq3.png",
             "./assets/fq4.png"
           ],
-          "src": "https://github.com/geowdu"
-          },
-          {
-            "id":2,
-            "title": "Project 2",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
-            "covers": ["./assets/pcb1.png",
-              "./assets/fq3.png",
-              "./assets/fq4.png"
-            ],
-            "src": "https://github.com/geowdu"
-          },
-          {
-            "id":3,
-            "title": "Project 3",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
-            "covers": ["./assets/pcb1.png",
-              "./assets/fq3.png",
-              "./assets/fq4.png"
-            ],
-            "src": "https://github.com/geowdu"
-          }
+          "src": ""
+        },
+        {
+          "id":"en4",
+          "title": "PCB sistema par aagricultura",
+          "description": "Desarrollo de tarjeta para control de procesos agricolas",
+          "covers": ["./assets/agricola.png"
+          ],
+          "src": ""
+        },
+        {
+          "id":"en5",
+          "title": "Simulaciones Electronicas",
+          "description": "Programacion y simulacion de sistemas electronicos basados en microcontroladores",
+          "covers": ["./assets/simulation.png","./assets/oscilloscope.png","./assets/graph.png"
+          ],
+          "src": ""
+        },
+        {
+          "id":"en6",
+          "title": "Planos y renders",
+          "description": "Planos 2D y 3D y modelado 3D",
+          "covers": ["./assets/planos.png","./assets/Bodega.png","./assets/puente.png","./assets/planoBodega.png"
+          ],
+          "src": ""
+        }
 
-        ]
+    ]
 
     },
     {
@@ -163,37 +203,32 @@
       ],
       "portfolio":[
         {
-          "id":1,
-          "title": "Project 1",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
-          "covers": ["./assets/pcb1.png",
-            "./assets/fq3.png",
-            "./assets/fq4.png"
+          "id":"de1",
+          "title": "Alphadog",
+          "description": "Pagina web realizado con vanilla js y ccs grid layout",
+          "covers": ["./assets/alpha.png"
+            
           ],
-          "src": "https://github.com/geowdu"
-          },
-          {
-          "id":2,
-          "title": "Project 2",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
-          "covers": ["./assets/pcb1.png",
-            "./assets/fq3.png",
-            "./assets/fq4.png"
+          "src": "https://github.com/dongeodev"
+        },
+        {
+          "id":"dev2",
+          "title": "Podcats App",
+          "description": "App Web realizada en Next js",
+          "covers": ["./assets/pod.png"
           ],
-          "src": "https://github.com/geowdu"
-          },
-          {
-          "id":3,
-          "title": "Project 3",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla diam odio, mollis ac tellus ut, ullamcorper sollicitudin mauris. Quisque eleifend tincidunt gravida. Integer vel lectus sollicitudin, malesuada justo sed, tempus massa.",
-          "covers": ["./assets/pcb1.png",
-            "./assets/fq3.png",
-            "./assets/fq4.png"
+          "src": "https://github.com/dongeodev"
+        },
+        {
+          "id":"dev3",
+          "title": "Landing Page",
+          "description": "Landing Page de servicio de reparacion de celulares",
+          "covers": ["./assets/cell.png"
           ],
-          "src": "https://github.com/geowdu"
-          }
+          "src": "https://github.com/dongeodev"
+        }
 
-        ]
+      ]
 
     }
   ]
